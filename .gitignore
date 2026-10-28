@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local IDE and private configuration
+.idea/
+.env.*
+!.env.example
+.DS_Store
